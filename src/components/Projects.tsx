@@ -17,8 +17,8 @@ const projets = [
     description:
       "Je conçois des plateformes e-commerce modernes et sur mesure, permettant aux entreprises de vendre efficacement en ligne. De la gestion des produits et des catégories jusqu’au suivi des commandes et des utilisateurs, chaque solution est pensée pour maximiser les ventes, offrir une expérience fluide aux clients et simplifier l’administration au quotidien.",
     technologies: ["Flutter", "Node.js", "MongoDB", "Firebase"],
-    demoLink:"0",
-    repoLink:"0",
+    demoLink:"https://altamba.com",
+    repoLink:"https://github.com/MADYKOUMA/app_aly",
     image:img1
   },
     {
@@ -27,8 +27,8 @@ const projets = [
     description:
       "J’ai conçu un site vitrine professionnel avec WordPress + MySQL, pensé pour aider l’entreprise à gagner en visibilité, renforcer sa crédibilité et attirer plus de clients en ligne. Le site combine un design moderne, rapide et entièrement responsive avec une structure optimisée pour le référencement (SEO), afin d’assurer une meilleure position sur les moteurs de recherche.",
     technologies: ['WordPress', 'MySQL', 'SEO', 'LWS'],
-    demoLink:"0",
-    repoLink:"0",
+    demoLink:"https://mkportofolio.netlify.app/",
+    repoLink:"https://github.com/MADYKOUMA/portofolio",
     image:img2
   },
   {
@@ -37,8 +37,8 @@ const projets = [
     description:
       "Développement d’un site e-commerce avec WordPress et MySQL, permettant la vente de produits en ligne avec une gestion simple des articles, catégories et commandes. Le site est responsive, rapide et optimisé pour offrir une expérience utilisateur fluide et professionnelle, tout en facilitant la gestion du contenu côté administrateur.",
     technologies: ['WordPress', 'MySQL', 'SEO', 'LWS'],
-    demoLink:"0",
-    repoLink:"0",
+    demoLink:"https://malibasugu.com/",
+    repoLink:"https://malibasugu.com/",
     image:img3
   },
   {
@@ -47,8 +47,8 @@ const projets = [
     description:
       "Je développe des outils digitaux adaptés aux besoins spécifiques des entreprises (gestion de stock, associations, établissements scolaires, etc.). Ces solutions permettent d’automatiser les tâches, de centraliser les données et de gagner un temps précieux dans la gestion quotidienne.",
     technologies: ['Next.js', 'TypeScript', 'Prisma', 'Tailwind', 'Postgresql'],
-    demoLink:"0",
-    repoLink:"0",
+    demoLink:"https://g-kms.onrender.com",
+    repoLink:"https://github.com/MADYKOUMA/G-KMS",
     image:img4
   },
   {
